@@ -171,14 +171,14 @@
       "name": "Integers",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#eda987"
+        "foreground": "#d0d0d0"
       }
     },
     {
       "name": "Floats",
       "scope": "none",
       "settings": {
-        "foreground": "#eda987"
+        "foreground": "#d0d0d0"
       }
     },
     {
