@@ -55,7 +55,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#12cfc0"
+        "foreground": "#d0d0d0"
       }
     },
     {
