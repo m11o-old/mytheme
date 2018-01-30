@@ -126,7 +126,7 @@
       "name": "Methods",
       "scope": "keyword.other.special-method",
       "settings": {
-        "foreground": "#4457ffe3"
+        "foreground": "#4653cfe3"
       }
     },
     {
