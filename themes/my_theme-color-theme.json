@@ -23,7 +23,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#0FA12C",
+        "foreground": "#409952",
         "fontStyle": "italic"
       }
     },
