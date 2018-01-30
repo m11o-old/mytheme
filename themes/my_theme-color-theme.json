@@ -164,7 +164,7 @@
       "name": "Symbols",
       "scope": "constant.other.symbol",
       "settings": {
-        "foreground": "#eda987"
+        "foreground": "#6C6CEB"
       }
     },
     {
